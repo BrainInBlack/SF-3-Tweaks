@@ -1,22 +1,27 @@
 # SF 3 Tweaks
 
-Not everybody can play for 8 to 16 hours a day and these
-tweaks/changes were made for those kind of people. Sieving rates where
-doubled for many basic resources and some restrictions were removed or
-rebalanced.
+These Tweaks attempt to speedup the early-game just enough that people
+with less time on their hand can still have fun with pack, while not
+feeling like they made no progress in their rather short sessions.
 
-If you think a pack has to be "balanced",
-then these tweaks are not for you!
+However, some stuff is gated behind some involving processes to at
+least make an effort to balance everything. The first hour or so, will
+still be spend punching trees and twerking like a madman/madwoman. In
+other words the spirit of the pack should be preserved.
 
 
 ## Changes
 
-* Better Sieving Returns
+* Rebalanced Sieving Returns
+  * Overall more Resources and less Gold
 * Excavate with all Tools
-* Dust can be made in EnderIO Machines
+  * There are issues with some tools (see Known Issues)
+* Dust can be made in the SAG Mill
+  * Brings everything more in line with other similar machines
 * Silicon is made in the Resonator
-* Yellorium emits heat again
-* Yellorium Blocks are made in the Alloy Smelter
+  * Balances out the Dust making capabilities of the SAG Mill
+* Yellorium emits decent amounts heat again
+  * But are harder and more expensive to make
 
 
 ## Installation
@@ -24,6 +29,12 @@ then these tweaks are not for you!
 
 Just copy the `config` and `scripts` folder to your Sky Factory 3
 instance and overwrite if prompted.
+
+
+## Known Issues
+
+* Blocks get eaten by the compressed hammer if durability runs out while excavating.
+* Some tools behave weirdly if used for excavating.
 
 
 ## Contributing
