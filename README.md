@@ -1,4 +1,4 @@
-# SF 3 Tweaks
+# Sky Factory 3 Tweaks
 
 These Tweaks attempt to speedup the early-game just enough that people
 with less time on their hand can still have fun with pack, while not
@@ -22,6 +22,11 @@ other words the spirit of the pack should be preserved.
   * Balances out the Dust making capabilities of the SAG Mill
 * Yellorium emits decent amounts heat again
   * But are harder and more expensive to make
+
+
+## Download
+
+[Latest Release (SF3 3.0.15)](https://github.com/BrainInBlack/SF-3-Tweaks/releases/latest)
 
 
 ## Installation
