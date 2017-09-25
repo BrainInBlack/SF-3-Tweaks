@@ -1,4 +1,4 @@
-#Name: aa.zs
+#Name: ExtraUtils2.zs
 #Author: BrainInBlack
 
 print("Initializing 'ExtraUtils2'...");
